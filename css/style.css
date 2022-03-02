@@ -1,0 +1,84 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.pre-header {
+	background-color:#111618;
+	height:60px;
+	color: #fff;
+	padding-top:15px;
+}
+.pre-header .secondary-menu {
+	list-style: none;
+}
+.pre-header .secondary-menu li {
+	display: inline-block;
+	margin-left: 12px;
+}
+
+.pre-header .secondary-menu li a {
+	
+	color:#CCD1D1 ;
+	text-transform: uppercase;
+}
+.main-nav .main-menu {
+	list-style: none;
+}
+
+.main-nav .main-menu li {
+	display: inline-block;
+	margin-left:15px;
+	margin-top: 20;
+
+}
+.main-nav img {
+	margin-top: 10px;
+ 	height: 100px;
+}
+.main-nav .main-menu li a {
+	color : #767676;
+	text-transform: uppercase:
+}
+.main-cta-btn {
+	background-color :#767676;
+	text-decoration:none;
+	padding:8px;
+	color:#fff !important;
+	transition:0.2s;
+}
+.main-nav .main-menu li a {
+	text-decoration:none;
+}	
+.pre-header .secondary-menu li a{
+	text-decoration:none;
+}
+.main-cta-btn:hover {
+	color : #767676 !important;
+	background-color:transparent;
+}
+.main-nav .main-menu li a:hover {
+  text-decoration: underline;
+}
+ .hero-section{
+      background-image:url('../img/alfaaa.jpg'); 
+	  padding-top:125px;
+	  padding-bottom:115px;
+    }
+.hero-section h1{
+	color:fff;
+	text-transform:uppercase;
+	font-size:52px;
+}
+.hero-section p{
+	color:white;
+	font-size:35;
+}
+.hero-section a{
+	background-color :#767676;
+	text-decoration:none;
+	padding:8px;
+	color:#fff ;
+	transition:0.2s;
+	display:inline-block;
+}
+	
